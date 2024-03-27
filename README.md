@@ -1,6 +1,5 @@
 # Rose
-Getting peeped by a rose doesn't feel that good, it's time to change that
-
+Getting peeped by a rose doesn't feel that good, it's time to change that. For Rose tweak with support for rootless tweak go to [ONE Jailbreak](https://onejailbreak.com/blog/rose-tweak/)
 ## Installation
 1. Add this repository to your Package Manager: https://repo.litten.love
 2. Install Rose
